@@ -17,7 +17,7 @@
 
   <br />
 
-  <img src="https://via.placeholder.com/800x400?text=App+Showcase+Banner" alt="Banner" width="100%" />
+  <img src="assets/images/wall.jpg" alt="Banner" width="100%" style="border-radius: 10px;" />
 
   <br />
   <br />
@@ -50,9 +50,12 @@
 
 ## ✨ Features
 
-- 🆔 **Profile Overview**: Customizable avatar, name display ("BlaZe"), and creative tagline.
-- 👆 **Interactive Hub**: Dedicated sections for Education, Projects, Location, and Contact.
-- 🌙 **Visual Design**: Premium dark theme (`0xFF1A1A1A`) with Gold/Amber accents.
+- 🆔 **Profile Overview**: Customizable avatar, name display ("BlaZe"), and creative tagline ("A Dev and A Primordial").
+- 🎨 **Visuals**: 
+    - Full-screen background image (`wall.jpg`) with opacity overlay.
+    - Custom Fonts: **Silkscreen** (Headers) and **Audiowide** (Body/Subtitles).
+- 👆 **Interactive Hub**: Dedicated sections for Education (ABESIT), Projects, Location (India), and Contact.
+- 🌙 **Visual Design**: Premium dark theme with Gold/Amber accents.
 - 📝 **About Section**: Personal bio with custom typography.
 
 <br />
@@ -68,6 +71,14 @@
 | **VCS** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
 </div>
+
+<br />
+
+## 📬 Contact
+
+- **Email**: `no@thankyou.com`
+- **Phone**: `+91 1234567890`
+- **Location**: India
 
 <br />
 
